@@ -1,1 +1,1 @@
-# .github
+# IBM Verify SDK Repositories
